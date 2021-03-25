@@ -24,3 +24,7 @@ if n!=0:
     s+=e
     n=n%5
 print(s)
+# a_panda
+n = int(input())
+n1 = input()
+print(round(int(n1,2)/n))
